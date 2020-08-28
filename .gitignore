@@ -425,6 +425,9 @@ git_pull.php
 *.gz
 !BasicJavaBot.zip
 
+!Halite II Visualizer-macos.zip
+!Halite2_C++_Windows.zip
+!HaliteClient.zip
 # VS Code
 .vscode
 
